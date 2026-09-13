@@ -1,0 +1,4 @@
+apiVersion : fv1
+kind : Namespace 
+metadata:
+  name: www
